@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": " Test Product 1",
+      "qty": 30
+    },
+    {
+      "id": 2,
+      "name": " Test Product 3",
+      "qty": 12
+    }
+  ],
+  "stockIns": [],
+  "stockOuts": []
+}

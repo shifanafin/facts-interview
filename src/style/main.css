@@ -1,0 +1,32 @@
+
+  
+  .container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   box-sizing: border-box;
+  }
+
+  .btn{
+    margin: 2rem;
+    text-decoration: none;
+  }
+  .btn-product{
+    width: 10rem;
+    height: 65px;
+
+  }
+  .products{
+    display: flex;
+    
+  }
+  .card{
+    width: 8rem;
+    margin: 25px;
+  }
+  .card-flex{
+    display: flex;
+    margin: 4rem;
+  }
+  
